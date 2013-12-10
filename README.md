@@ -41,3 +41,16 @@ This repo dedicated to The Who, Sheryl Crow and others who sang this song before
   http://youtu.be/49H0IfoILwQ
   http://youtu.be/XG3Re60iWUY
 
+
+Some links about technology pioneers:
+  http://www.digitaltrends.com/home-theater/audio-innovator-and-technology-pioneer-ray-dolby-dies-at-age-80/
+  http://www.examiner.com/article/steve-jobs-1955-2011-technology-pioneer-worked-the-early-days-of-atari
+  http://www.geekwire.com/2013/tech-pioneer-bill-gates-lugs-giant-bag-paper-books/
+  http://www.urbancowboy.ca/2011/07/17/technology-and-transparency-next-step-for-livestock-farmers-says-animal-welfare-pioneer/
+  http://www.theatlantic.com/technology/archive/2013/10/you-can-now-liberate-gifs-from-the-web-with-an-old-weird-technology/280804/
+  http://www.denverpost.com/business/ci_23787568/maney-tech-pioneer-talks-about-engaging-kids-economic
+  http://content.time.com/time/specials/packages/article/0,28804,1948486_1948485_1948483,00.html
+  http://www.technologyreview.com/news/520216/three-questions-for-tech-education-pioneer-scot-osterweil/
+  http://upstart.bizjournals.com/entrepreneurs/hot-shots/2013/03/27/nolan-bushnell-talks-to-silicon-valley.html?page=all
+  http://www.nottinghampost.com/Family-truck-firm-leads-way-pioneering-green-fuel/story-20033625-detail/story.html
+  
