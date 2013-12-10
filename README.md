@@ -35,3 +35,9 @@ Example using ajax load SqueezeBox.js boxes itself.:
     } );
 } );
 &lt;/script&gt;
+
+
+This repo dedicated to The Who, Sheryl Crow and others who sang this song before you were born.
+  http://youtu.be/49H0IfoILwQ
+  http://youtu.be/XG3Re60iWUY
+
